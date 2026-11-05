@@ -1,0 +1,127 @@
+{
+  "updated": "2026-11-05",
+  "platforms": [
+    {
+      "platform": "Instagram",
+      "handle": "@barnardco",
+      "url": "https://instagram.com/barnardco/",
+      "followers": 636000,
+      "extra_label": "posts",
+      "extra": 941
+    },
+    {
+      "platform": "TikTok",
+      "handle": "@barnardco",
+      "url": "https://www.tiktok.com/@barnardco",
+      "followers": 331000,
+      "extra_label": "likes",
+      "extra": 7500000
+    },
+    {
+      "platform": "YouTube",
+      "handle": "@barnardco",
+      "url": "https://www.youtube.com/@barnardco",
+      "followers": 164000,
+      "extra_label": "videos",
+      "extra": 383
+    },
+    {
+      "platform": "Threads",
+      "handle": "@barnardco",
+      "url": "https://www.threads.com/@barnardco",
+      "followers": 109700,
+      "extra_label": "threads",
+      "extra": 233
+    },
+    {
+      "platform": "LinkedIn",
+      "handle": "jamesrbarnard",
+      "url": "https://www.linkedin.com/in/jamesrbarnard/",
+      "followers": 120000,
+      "extra_label": null,
+      "extra": null
+    }
+  ],
+  "community": {
+    "members": 184,
+    "newsletter": 10000
+  },
+  "audience": [
+    {
+      "group": "gender",
+      "label": "Men",
+      "share": 0.5892
+    },
+    {
+      "group": "gender",
+      "label": "Women",
+      "share": 0.4071
+    },
+    {
+      "group": "gender",
+      "label": "Other / not specified",
+      "share": 0.0038
+    },
+    {
+      "group": "age",
+      "label": "13–17",
+      "share": 0.0187,
+      "order": 0
+    },
+    {
+      "group": "age",
+      "label": "18–24",
+      "share": 0.1274,
+      "order": 1
+    },
+    {
+      "group": "age",
+      "label": "25–34",
+      "share": 0.4429,
+      "order": 2
+    },
+    {
+      "group": "age",
+      "label": "35–44",
+      "share": 0.2732,
+      "order": 3
+    },
+    {
+      "group": "age",
+      "label": "45–54",
+      "share": 0.1009,
+      "order": 4
+    },
+    {
+      "group": "age",
+      "label": "55+",
+      "share": 0.0364,
+      "order": 5
+    },
+    {
+      "group": "country",
+      "label": "United States",
+      "share": 0.1921
+    },
+    {
+      "group": "country",
+      "label": "United Kingdom",
+      "share": 0.0705
+    },
+    {
+      "group": "country",
+      "label": "India",
+      "share": 0.045
+    },
+    {
+      "group": "country",
+      "label": "Germany",
+      "share": 0.0302
+    },
+    {
+      "group": "country",
+      "label": "Brazil",
+      "share": 0.018
+    }
+  ]
+}
